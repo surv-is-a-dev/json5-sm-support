@@ -38,6 +38,7 @@ jspm_packages
 
 .vscode/
 dist/
+serve/
 
 test/output.json
 test/test.json
